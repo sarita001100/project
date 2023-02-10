@@ -1,0 +1,2 @@
+lead medhod is used for creat a lead account
+lead is a module
